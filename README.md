@@ -87,4 +87,4 @@ Two models were trained and evaluated:
 
 **Frederick Kwame Molah**  
 Email: frederickmolah@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/frederickmolah) (replace with actual profile link)  
+[LinkedIn](https://www.linkedin.com/in/frederick-molah-b36a64159/)
