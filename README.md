@@ -63,7 +63,7 @@ Two models were trained and evaluated:
 - **Programming**: Python
 - **Libraries**: `pandas`, `matplotlib`, `seaborn`, `scikit-learn`, `xgboost`
 - **Notebook**: Jupyter Notebook
-- **File**: [`loan_default_prediction.ipynb`](./Loan Default Prediction.ipynb)
+- **File**: [`loan_default_prediction.ipynb`](./Loan_Default_Prediction.ipynb)
 
 ---
 
